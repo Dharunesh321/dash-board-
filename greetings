@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+hobby = input("Enter your hobby: ")
+
+print("\n--- Welcome Message ---")
+print(f"Hello {name}! It's great to know that you are {age} years old.")
+print(f"Wow! {hobby} sounds like a wonderful hobby to have.")
+print("Nice to meet you!")
